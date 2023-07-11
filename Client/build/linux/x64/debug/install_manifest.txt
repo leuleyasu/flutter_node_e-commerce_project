@@ -1,0 +1,13 @@
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/flutter_node_auth
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/l/Documents/15_days_project/flutter_node_Eccomerse_project/Client/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
